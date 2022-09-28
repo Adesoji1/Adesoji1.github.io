@@ -1,7 +1,7 @@
 /* Theme */
 
 main, body {
-	color: #FAFAFA;
+	color: #000000;
 	height: 100%; 
 
     /* Center and scale the image nicely */
@@ -15,9 +15,9 @@ body, html {
 }
 
 .icons-social a {
-	color: #FAFAFA;
+	color: #000000;
 }
 
 .icons-social a svg path{
-	fill: #FAFAFA;
+	fill: #000000;
 }
